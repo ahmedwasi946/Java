@@ -1,0 +1,10 @@
+public class DemoVariable{
+
+	public static void main(String [] arg){
+		int num = 10;
+		System.out.println(num);
+		
+	
+	}
+
+}
